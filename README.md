@@ -1,8 +1,5 @@
-# React + Vite
+# View the Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+here is the demo https://animated-creponne-5435d4.netlify.app/
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This was built using React, Vite, TailwindCSS, Redux, and Summize open-source API from RapidAPI
