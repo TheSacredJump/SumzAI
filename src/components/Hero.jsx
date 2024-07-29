@@ -7,7 +7,7 @@ const Hero = () => {
         <nav className='flex justify-between items-center flex-row w-full mb-10 pt-3'>
             <img src={logo} alt="Sumz logo" className='w-28 object-contain'/>
 
-            <button type='button' onClick={() => window.open('https://github.com/TheSacredJump/')} className='black_btn'>
+            <button type='button' onClick={() => window.open('https://github.com/TheSacredJump/SumzAI')} className='black_btn'>
                 Github
             </button>
         </nav>
